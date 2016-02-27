@@ -1,0 +1,17 @@
+{
+  "sassApp":"",
+  "sassSrc":"",
+  "cssDest":"",
+  "devPath":"",
+  "devPort":"",
+  "ellipticalScriptPath":"",
+  "scriptSrc":"",
+  "scriptDest":"",
+  "livePort":"",
+  "livePath":"",
+  "liveHost":"",
+  "importSrc":"./imports",
+  "vulcanDest":"./vulcanized",
+  "stripExcludes":"false",
+  "inlineScripts":"true"
+}
