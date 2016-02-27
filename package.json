@@ -1,7 +1,7 @@
 {
   "name": "gh-pages",
   "description": "Documentation and demo skeleton module",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
