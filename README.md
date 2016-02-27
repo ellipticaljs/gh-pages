@@ -1,4 +1,4 @@
-# GH_PAGES
+# GH-PAGES
 
 Documentation and demo skeleton module
 
